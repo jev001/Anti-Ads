@@ -1,1 +1,13 @@
-||iswtf.com$s@isAdEnabled@<!--  ADM -->
+[ADM]
+!  Title: Only-Https-Below-ADM
+!  --------------------------------------------------------------------------------------------
+!  --------  By-Jonah
+!  Homepage: https://github.com/jonah-tao/Anti-Ads/ADM_Ruler.txt
+!  ----------------------------------------------------------------------------
+|http://*/main/s?user=AllyesNetwork|TppAd|*
+! ------------------------------------------------------
+!https://www.youtube.com/
+
+
+||iswtf.com$s@isAdEnabled@ADM<!--  ADM -->
+
