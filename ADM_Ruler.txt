@@ -10,4 +10,4 @@
 
 
 ||iswtf.com$s@isAdEnabled@ADM<!--  ADM -->
-
+||*.surfacead.com/*
