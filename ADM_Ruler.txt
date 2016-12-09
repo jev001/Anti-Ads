@@ -11,4 +11,4 @@
 
 ||iswtf.com$s@isAdEnabled@ADM<!--  ADM -->
 ||surfacead.com/*
-||bilibili.com/x/web-show/res/locs?*&pf=0&ids=40%
+||bilibili.com/x/web-show/res/locs?*&pf=0&
