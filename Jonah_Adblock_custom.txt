@@ -1,0 +1,80 @@
+[Adblock Plus 2.0]
+! Version: 2017629092739
+! Title: Jonah_Adblock_custom
+! Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"
+! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
+! Last modified: 2017/6/29  09:28:04
+
+
+!------------------------Specific element hiding rules------------------------!
+！！----------Bilibili---------！！
+bilibili.com###b_guochuang
+bilibili.com###b_dance
+bilibili.com###b_live 
+bilibili.com###b_promote
+bilibili.com###b_life 
+bilibili.com###b_fashion 
+bilibili.com###b_ad
+bilibili.com###b_recommend
+bilibili.com###b_kichiku
+bilibili.com###b_tag_promote > .b-section-body
+bilibili.com###b_music
+bilibili.com###b_ent
+bilibili.com###b_game
+bilibili.com##.m-i:nth-of-type(4)
+bilibili.com##.m-i:nth-of-type(6)
+bilibili.com##.m-i:nth-of-type(12)
+bilibili.com##.m-i:nth-of-type(9)
+bilibili.com##.m-i-last.m-i-live.m-i
+bilibili.com##.m-i:nth-of-type(11)
+bilibili.com##.guochuang-module
+ttmeiju.com###footer > div:nth-of-type(1)
+bilibili.com##.clearfix.live-module
+bilibili.com##.clearfix.promote-tag-module
+bilibili.com###bili_music
+bilibili.com###bili_dance
+bilibili.com###bili_technology
+bilibili.com###bili_kichiku
+bilibili.com###bili_fashion
+bilibili.com###bili_ad
+bilibili.com###bili_ent
+bilibili.com##.clearfix.special-recommend-module
+bilibili.com###bili_life
+bilibili.com###bili_game
+bilibili.com##.clearfix.chief-recommend-module
+bilibili.com##.clearfix.popularize-module
+bilibili.com###bili_douga
+bilibili.com###b_technology > .b-section-body
+space.bilibili.com##.i-tg-tab
+space.bilibili.com##.swiper-wrapper
+bilibili.com###bili_music
+bilibili.com###bili_dance
+tudou.com###downloadItudou
+
+！！----------dilidili---------！！
+||dilidili.wang/ad/*$image
+||dilidili.wang/images/gg265x300.jpg$image
+dilidili.wang##.clear.con20
+dilidili.wang###kaka_
+dilidili.wang##.dibu3
+
+！！----------acfun---------！！
+acfun.cn##.area-ad.area > .clearfix.wp
+dilidili.wang##.right_top_ad
+dilidili.wang##.ad-middle:nth-of-type(3)
+dilidili.wang##.ad-middle:nth-of-type(5)
+dilidili.wang##.footer-top-img
+dilidili.wang##.overflow-box
+dilidili.wang###carousel
+dilidili.wang##.fl.nav_lef:nth-of-type(1) 
+
+！！----------QQ---------！！
+user.qzone.qq.com##.fn_hotTopic_v5
+user.qzone.qq.com###QM_Container_100002
+user.qzone.qq.com###tab_applist_show
+user.qzone.qq.com###tab_otherlist_show
+user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav
+
+
+!------------------------hiding------------------------!
+heirui.cn##.index711-mask
