@@ -18,9 +18,11 @@ bilibili.com###b_ad
 bilibili.com###b_recommend
 bilibili.com###b_kichiku
 bilibili.com###b_tag_promote > .b-section-body
+
 bilibili.com###b_music
 bilibili.com###b_ent
 bilibili.com###b_game
+bilibili.com##.bangumi-module > .gg-floor-module
 bilibili.com##.m-i:nth-of-type(4)
 bilibili.com##.m-i:nth-of-type(6)
 bilibili.com##.m-i:nth-of-type(12)
@@ -50,6 +52,8 @@ space.bilibili.com##.swiper-wrapper
 bilibili.com###bili_music
 bilibili.com###bili_dance
 tudou.com###downloadItudou
+
+
 
 ！！----------dilidili---------！！
 ||dilidili.wang/ad/*$image
