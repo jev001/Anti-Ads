@@ -61,6 +61,8 @@ tudou.com###downloadItudou
 dilidili.wang##.clear.con20
 dilidili.wang###kaka_
 dilidili.wang##.dibu3
+!!--------ithome----------------!!
+ithome.com###hl-toutiao
 
 ！！----------acfun---------！！
 acfun.cn##.area-ad.area > .clearfix.wp
