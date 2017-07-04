@@ -29,6 +29,7 @@ bilibili.com##.m-i:nth-of-type(12)
 bilibili.com##.m-i:nth-of-type(9)
 bilibili.com##.m-i-last.m-i-live.m-i
 bilibili.com##.m-i:nth-of-type(11)
+bilibili.com##.v-live-recommend
 bilibili.com##.guochuang-module
 ttmeiju.com###footer > div:nth-of-type(1)
 bilibili.com##.clearfix.live-module
@@ -68,6 +69,7 @@ ithome.com###hl-toutiao
 acfun.cn##.area-ad.area > .clearfix.wp
 !!!!-------more----------!!!
 */danmuad/*
+||201944.com
 
 ！！----------dilidili---------！！
 dilidili.wang##.right_top_ad
