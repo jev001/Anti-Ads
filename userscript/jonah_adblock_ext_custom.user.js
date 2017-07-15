@@ -15,4 +15,7 @@
     $('#bkm').html('');
     $('#bkm').attr('style','');
     //END---D站去广告---//
+    if(closePop!=null||closePop!=undefined){
+        closePop.onClick();
+    }
 })();
