@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       Jonah
 // @match        *://www.dilidili.wang/*
-// @require    http://code.jquery.com/jquery-1.11.0.min.js  
+// @require    http://code.jquery.com/jquery-1.11.0.min.js
 // @grant        none
 // ==/UserScript==
 
@@ -13,14 +13,14 @@
     //BEGIN---D站去广告---//
     $('.ad-middle').html('');
     $('#bkm').html('');
-    $('#bkm').attr('style','');
+    $('#bkm').attr('style', '');
     var ads = $('[href*=toGame] img');
-    $.each(ads,function(index,row)){
-        row.remove()
-    }
+    $.each(ads, function(index, row) {
+        row.remove();
+    });
     //END---D站去广告---//
-    
-    if(closePop!=null||closePop!=undefined){
+
+    if (closePop != null || closePop != undefined) {
         closePop.onclick();
     }
 })();
