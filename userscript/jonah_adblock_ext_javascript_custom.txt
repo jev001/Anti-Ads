@@ -14,5 +14,9 @@
     $('.ad-middle').html('');
     $('#bkm').html('');
     $('#bkm').attr('style','');
+    var ads = $('[href*=toGame] img');
+    $.each(ads,function(index,row)){
+        row.remove()
+    }
     //END---D站去广告---//
 })();
