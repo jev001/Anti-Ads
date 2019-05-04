@@ -91,3 +91,24 @@ user.qzone.qq.com##.mod-side-nav-recently-used.mod-side-nav
 
 !------------------------hiding------------------------!
 heirui.cn##.index711-mask
+
+! 2017/8/6 上午6:18:48 http://www.ycili.com/main-show-id-5724442.html
+www.ycili.com###__qdd_ciw_a__21
+
+https://zz.bdstatic.com/linksubmit/push.js
+http://e.70yst.cn/qsw.aspx
+
+http://www.h2ero.cn/
+
+! 2017/12/30 下午9:17:31 https://www.fantasy.tv/video/list/channel/55186/0/146
+www.fantasy.tv##.hand.play_ad_one
+
+! 2017/12/31 下午8:10:20 http://www.qxyingyuan.vip/play/?make=url&id=http://v.youku.com/v_show/id_XMTQ1MTIxMDI5Ng==.html?spm=a2h0j.8191423.vpofficiallistv5_wrap.5~5~5~3!2~A
+www.qxyingyuan.vip##.sidebar
+
+! 4/15/2018, 8:59:39 PM https://blog.csdn.net/chendaoqiu/article/details/50700246
+blog.csdn.net##.edu_promotion
+
+! 5/4/2019 http://msdn.itellyou.cn
+msdn.itellyou.cn##.in.bs-example-modal-sm.fade.modal
+msdn.itellyou.cn##.in.fade.modal-backdrop
