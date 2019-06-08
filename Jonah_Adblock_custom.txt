@@ -112,3 +112,5 @@ blog.csdn.net##.edu_promotion
 ! 5/4/2019 http://msdn.itellyou.cn
 msdn.itellyou.cn##.in.bs-example-modal-sm.fade.modal
 msdn.itellyou.cn##.in.fade.modal-backdrop
+
+wandhi.com/*
