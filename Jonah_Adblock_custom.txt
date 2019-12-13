@@ -55,6 +55,34 @@ bilibili.com###bili_dance
 tudou.com###downloadItudou
 
 
+*.07818gg.com
+
+! 10/19/2019 https://www.bilibili.com
+www.bilibili.com###bili_manga
+! 10/20/2019 http://www.guandianzhiku.com
+www.guandianzhiku.com##.jconfirm-type-animated.jconfirm-type-default.jconfirm-hilight-shake.jconfirm-box
+
+! 12/11/2019 https://www.bilibili.com
+www.bilibili.com##.b-wrap.first-screen
+www.bilibili.com###bili_live
+www.bilibili.com###bili_guochuang
+www.bilibili.com###bili_read
+www.bilibili.com###bili_report_spe_rec
+www.bilibili.com###primaryFriendshipLink
+www.bilibili.com##.mascot
+www.bilibili.com###recom_module
+www.bilibili.com###review_module
+www.bilibili.com##.bb-comment
+www.bilibili.com##.media-wrapper
+www.bilibili.com###comment_module
+www.bilibili.com###v_desc
+
+www.bilibili.com###comment
+www.bilibili.com###sponsor_module
+www.bilibili.com###reco_list
+www.bilibili.com###live_recommand_report
+
+
 
 ！！----------dilidili---------！！
 ||dilidili.wang/ad/*$image
