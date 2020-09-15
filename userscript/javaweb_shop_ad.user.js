@@ -13,8 +13,9 @@
     if(groups.id){
         var downloadCacheStr = localStorage.getItem("_ARTICLE_DOWNLOAD_INFO_CACHE_")
         console.debug("origin [_ARTICLE_DOWNLOAD_INFO_CACHE_= "+downloadCacheStr+" ]")
-        localStorage.setItem("_ARTICLE_DOWNLOAD_INFO_CACHE_","{"+groups.id+":true}")
-        console.info("success replace _ARTICLE_DOWNLOAD_INFO_CACHE_")
+        var newCahce = "{\""+groups.id+"\":true}"
+        localStorage.setItem("_ARTICLE_DOWNLOAD_INFO_CACHE_",newCahce)
+        console.info("success replace _ARTICLE_DOWNLOAD_INFO_CACHE_"+newCahce)
     }else{
         console.warn("error get article id from ["+requestUrl+"]")
     }
