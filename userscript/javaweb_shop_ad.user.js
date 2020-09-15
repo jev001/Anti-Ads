@@ -12,7 +12,7 @@
     var groups = p.exec(requestUrl).groups
     if(groups.id){
         var downloadCacheStr = localStorage.getItem("_ARTICLE_DOWNLOAD_INFO_CACHE_")
-        localStorage.setItem("_ARTICLE_DOWNLOAD_INFO_CACHE_","{\""+groups.id+"\":true}")
+        localStorage.setItem("_ARTICLE_DOWNLOAD_INFO_CACHE_","{"+groups.id+":true}")
     }else{
         console.warn("error get article id from ["+requestUrl+"]")
     }
