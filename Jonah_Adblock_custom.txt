@@ -197,3 +197,186 @@ www.guandianzhiku.com##.jconfirm-type-animated.jconfirm-type-default.jconfirm-hi
 www.kxdw.com##.FbwxWp.wxWp
 www.kxdw.com##.DownwxWp.wxWp > .bgblock
 www.kxdw.com##.DownwxWp.wxWp
+
+
+! 2021-04-04 http://www.meijuxia.vip
+www.meijuxia.vip###layui-layer-shade1
+www.meijuxia.vip##.layui-layer-dialog
+! 2021-04-05 http://meijuxia.net
+meijuxia.net###layui-layer-shade1
+meijuxia.net##.layui-layer-dialog
+*.07818gg.com
+
+! 10/20/2019 http://www.guandianzhiku.com
+www.guandianzhiku.com##.jconfirm-type-animated.jconfirm-type-default.jconfirm-hilight-shake.jconfirm-box
+! 3/6/2020 http://www.silisili.me
+www.silisili.me##.topimg
+www.silisili.me##div.adv
+! 3/7/2020 http://www.silisili.me
+www.silisili.me##.play_ad
+www.silisili.me##marquee
+www.silisili.me##.player_sx
+*.ebookg.com
+! 2021-05-22 https://www.acfun.cn
+www.acfun.cn###pagelet_dance
+
+
+
+! 2021-09-25 https://wiki.mbalib.com
+wiki.mbalib.com###bg
+wiki.mbalib.com###copy_pop_wiki
+
+
+! 屏蔽网站
+*.manongbook.com
+*.romleyuan.com
+*.313ks.cc
+
+*.yiquma.com
+*.read678.com
+
+! 2022-01-18 https://www.json.cn
+www.json.cn##.modal-dialog
+www.json.cn##.in.fade.modal-backdrop
+
+! 2022-02-10 https://www.cnblogs.com
+www.cnblogs.com##.login_tips
+
+
+! 2021-07-02 https://www.bilibili.com
+www.bilibili.com###bili_knowledge
+! 2021-07-09 https://www.bilibili.com
+www.bilibili.com##.link.ad-report
+www.bilibili.com##.slide-ad
+
+! 2021-08-14 https://www.bilibili.com
+www.bilibili.com###bili_food
+www.bilibili.com###bili_car
+www.bilibili.com###bili_sports
+
+! 12/11/2019 https://www.bilibili.com
+www.bilibili.com##.b-wrap.first-screen
+www.bilibili.com###bili_live
+www.bilibili.com###bili_guochuang
+www.bilibili.com###bili_read
+
+www.bilibili.com###bili_report_spe_rec
+www.bilibili.com###primaryFriendshipLink
+
+www.bilibili.com##.mascot
+www.bilibili.com###recom_module
+www.bilibili.com###review_module
+
+www.bilibili.com##.bb-comment
+
+www.bilibili.com##.media-wrapper
+www.bilibili.com###comment_module
+www.bilibili.com###v_desc
+
+www.bilibili.com###comment
+www.bilibili.com###sponsor_module
+
+! 12/20/2019 https://www.bilibili.com
+www.bilibili.com###bili_article > .zone-module
+www.bilibili.com###bili_digital
+
+! 1/22/2020 https://www.bilibili.com
+www.bilibili.com###reco_list
+www.bilibili.com###live_recommand_report
+www.bilibili.com##.inside-wrp
+
+! 2/2/2020 https://www.bilibili.com
+www.bilibili.com###bili_ad
+www.bilibili.com###bili_ent
+www.bilibili.com###bili_documentary
+www.bilibili.com###bili_report_fashion
+
+
+! 7/4/2020 https://www.bilibili.com
+www.bilibili.com###bili_report_information
+
+! 7/5/2020 http://www.meijuxia.vip
+www.meijuxia.vip###layui-layer1
+
+! 7/20/2020 https://www.bilibili.com
+www.bilibili.com###bili_cheese
+
+! 2021-03-14 https://www.bilibili.com
+www.bilibili.com###bili_animal
+
+! 2021-03-28 https://www.bilibili.com
+www.bilibili.com###right-bottom-banner
+
+! 2020-09-08 https://www.bilibili.com
+www.bilibili.com##.banner-link
+www.bilibili.com##.b-wrap.b-logo
+
+! 2020-09-12 https://www.bilibili.com
+
+! 2020-09-15 https://www.bilibili.com
+www.bilibili.com##.error-manga
+
+! 10/19/2019 https://www.bilibili.com
+www.bilibili.com###bili_manga
+
+! 2022-02-12 https://www.bilibili.com
+www.bilibili.com##.live-card-list
+www.bilibili.com##.guo-chuang-area > .no-margin.bili-grid
+www.bilibili.com##.variety-area
+www.bilibili.com##section.bili-grid:nth-of-type(10)
+www.bilibili.com##section.bili-grid:nth-of-type(11)
+www.bilibili.com##section.bili-grid:nth-of-type(12)
+www.bilibili.com##section.bili-grid:nth-of-type(13)
+www.bilibili.com##section.bili-grid:nth-of-type(14)
+www.bilibili.com##section.bili-grid:nth-of-type(15)
+www.bilibili.com##section.bili-grid:nth-of-type(17)
+www.bilibili.com##section.bili-grid:nth-of-type(18)
+www.bilibili.com##section.bili-grid:nth-of-type(19)
+www.bilibili.com##section.bili-grid:nth-of-type(20)
+www.bilibili.com##section.bili-grid:nth-of-type(21)
+www.bilibili.com##section.bili-grid:nth-of-type(22)
+www.bilibili.com##section.bili-grid:nth-of-type(23)
+www.bilibili.com##.information-area
+www.bilibili.com##section.bili-grid:nth-of-type(25)
+www.bilibili.com##.article-card-list
+www.bilibili.com##section.bili-grid:nth-of-type(26)
+www.bilibili.com##.eva-extension-area
+www.bilibili.com##section.bili-grid:nth-of-type(6)
+www.bilibili.com##.live-rank-conent
+www.bilibili.com##.bangumi-activity-area
+www.bilibili.com##section.grid-anchor.short-margin.bili-grid:nth-of-type(1)
+
+! 2022-02-13 https://www.bilibili.com
+www.bilibili.com##.bili-header__channel
+www.bilibili.com##.battle-area
+
+! 2022-02-14 https://www.bilibili.com
+www.bilibili.com##.guo-chuang-area
+
+
+www.bilibili.com##.ad-report
+
+! B站首页
+www.bilibili.com###bili_article
+www.bilibili.com###bili_tech
+www.bilibili.com###bili_article
+
+! 2021-10-17 http://www.kandytt.com
+www.kandytt.com###akmhframe
+
+! 2021-10-20 https://hd.yiqixiua.com
+hd.yiqixiua.com###recomment_container
+
+! 2021-11-01 shurongshequ.com
+shurongshequ.com
+youook.com
+
+! 2021-11-20 https://www.codeprj.com
+www.codeprj.com##.in.modal-backdrop
+www.codeprj.com##.in.hide.modal
+
+missav001.com
+
+! Mar 11, 2025 https://www.freeok.fun
+www.freeok.fun###overlay
+www.freeok.fun##.links-list
